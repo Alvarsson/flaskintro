@@ -1,4 +1,4 @@
-#!/home/pi/Documents/myproject/venv/bin/python3
+#!/Users/fredrik/alvarbooi/venv/bin/python
 
 # -*- coding: utf-8 -*-
 import re
